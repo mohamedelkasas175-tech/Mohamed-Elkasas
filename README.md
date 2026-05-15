@@ -1,6 +1,11 @@
 # 👋 Hey, I'm Mohamed Elkasas
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohamed%20Elkasas&fontSize=70" />
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bc9-8563-0d324907a253.gif" width="400" />
+</div>
+
 
 # 🚀 About Me
 
